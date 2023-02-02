@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.AsyncTaskExamples.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.AsyncTaskExamples.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.AsyncTaskExamples.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
